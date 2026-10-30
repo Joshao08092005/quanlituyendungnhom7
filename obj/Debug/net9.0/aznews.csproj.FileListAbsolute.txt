@@ -1,0 +1,480 @@
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\appsettings.Development.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\appsettings.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.staticwebassets.runtime.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.staticwebassets.endpoints.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.exe
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.deps.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.runtimeconfig.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\aznews.pdb
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.GeneratedMSBuildEditorConfig.editorconfig
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.AssemblyInfoInputs.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.AssemblyInfo.cs
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.csproj.CoreCompileInputs.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.MvcApplicationPartsAssemblyInfo.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.RazorAssemblyInfo.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.RazorAssemblyInfo.cs
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\scopedcss\bundle\aznews.styles.css
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\scopedcss\projectbundle\aznews.bundle.scp.css
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\zxnfkxuycc-nyrb7je8nx.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\mcovgg7a5l-nyrb7je8nx.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets.build.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets.development.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets\msbuild.aznews.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets\msbuild.aznews.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets\msbuild.build.aznews.props
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.aznews.props
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.aznews.props
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\staticwebassets.pack.json
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\refint\aznews.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.pdb
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.genruntimeconfig.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\ref\aznews.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\bfn3kzbz4c-80vv7p55ya.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\y2yb0xip07-9eedmcprap.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\tbr5ucqlhd-bphtqciwzk.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\6fwx9vnnwl-jfm3rcjzyc.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\x250xe8c4e-akmhyfivmy.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\n0pomnzvxx-x8fnk1bhg7.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\x3j7gway0r-zk3snyengw.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\0pjq449ri2-q3n68jwt9f.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\j7n3bh7ftj-0c1d32ph4u.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\zivzz7oxg0-gnxria04pl.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\wwbh3miyot-zqltuijmmh.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\s3cnh9kq8e-m63nr5e1wm.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\px7vme9jnb-gaqwphjnqn.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\4u6evr167u-ru2cxr19xd.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\0cyxwxspjo-sovr1pp57m.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\29bjfeiekc-e6lxb1zo4r.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\fg5abaogin-uyc8cyps1s.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\wltw0vfunb-cymb3pma5s.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\c6s0jyfdkh-r7fcis5f5w.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\x20d41mrvu-qgdusir5wo.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\zuk1rpywr2-abqchyd4ey.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\vz9eqwbxxq-duzqaujvcb.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\kzd7yrche1-6kh6g3t9s6.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\lxbelznfcx-5rzq459b4c.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\d0rvrkjul3-z27kpi724c.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\rd2lfzrqkb-ssodwtr8me.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\lzylj3lgtu-wyzj39ldk5.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\pfb76fy820-59b9ma3wnj.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\bg2dkq4zls-sul8q0jcid.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\kxky51qstf-ra1e54wghy.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\q6wfi5lyku-2bo1c34vsp.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\b0u04xwguu-yfbl1mg38h.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\2e2n042v8r-9gq32dhbrm.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\y8ypjzkokd-dqnj1qjzns.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\0ye8etyxgq-rh0m0hz4su.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\w59dj0ml40-evu8y4tl4x.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\tnb16k0iyt-b59oeg5zbp.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\z2od9svltr-026e6kk7rh.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\c3nd19t1xz-8odm1nyag1.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\rqpc5c426l-5tux705jrt.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\um91e32ues-8h82c988d2.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\172ch69sxq-fijaqoo955.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\fyk9wdz41y-ys2tyb6s49.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\f9enjing4j-lhbtj9850u.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\dgvfr7x1y0-u6djazel9b.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\6gwlsgbu6r-wvublzrdv8.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\23960b3ijh-259makaqpv.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\lmxawr7mpb-whkg23h785.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\kpvy8o5es6-ld7xckwkli.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\rtubr7aklr-p88p7jyaev.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\gnhijocvlu-za30oyn8rw.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\42aphniap9-5svw5dju7q.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\xbazziyn2i-ir474ug6zy.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\9t0pb68r4r-5cl6jzyzps.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\guq4wg5b3t-a2c1phmbzv.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\68yzy710ba-id5vwp8p47.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\zze07dxye0-jc95ic8utn.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\baol2wvmjh-hkjanwuenb.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\9ttg3njdjm-ei34i8mvrx.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\zrh9gf3l2w-eq99lnprhv.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\gu1gfx5x84-br0zmhkmg1.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\hlefj8drhw-khtfrzbzl2.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\6e96gtb1g6-me600wh90d.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\14cvtl8rx5-caoa9yso7c.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\pgtq0rgnoa-kdgqnhztwv.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\59v36uo6ip-cekyg9rg6z.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\1wyirl0yw3-px80y8xtbz.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\ehyx8abqfv-hfg9xzm5z1.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\j0cy9ilwt5-wtqgfvb3xj.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\9dftv701e5-5pbqeboks8.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\uoh5ku4520-89y8ovepyc.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\compressed\71x9q9eqv3-0qdbtt6r1b.gz
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Azure.Core.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Azure.Identity.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Humanizer.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.ClientModel.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.CodeDom.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Memory.Data.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Text.Json.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.csproj.AssemblyReference.cache
+E:\2026-hk2\CÔNG NGHỆ PHẦN MỀM\QLTUYENDUNG\aznews\obj\Debug\net9.0\aznews.csproj.Up2Date
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\appsettings.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.staticwebassets.runtime.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.staticwebassets.endpoints.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.exe
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.deps.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.runtimeconfig.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\aznews.pdb
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Azure.Core.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Azure.Identity.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Humanizer.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.ClientModel.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.CodeDom.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Composition.Convention.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Drawing.Common.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Memory.Data.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Security.Permissions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\System.Windows.Extensions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.csproj.AssemblyReference.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\rpswa.dswa.cache.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.AssemblyInfoInputs.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.AssemblyInfo.cs
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.csproj.CoreCompileInputs.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.RazorAssemblyInfo.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.RazorAssemblyInfo.cs
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\rjimswa.dswa.cache.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\scopedcss\bundle\aznews.styles.css
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\scopedcss\projectbundle\aznews.bundle.scp.css
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\r3q745ou3r-{0}-80vv7p55ya-80vv7p55ya.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\n1pun4uaxv-{0}-9eedmcprap-9eedmcprap.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\0cpgwgi88y-{0}-bphtqciwzk-bphtqciwzk.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\c4441ets7k-{0}-jfm3rcjzyc-jfm3rcjzyc.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\x16okcil3e-{0}-akmhyfivmy-akmhyfivmy.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\57jcysr1qs-{0}-x8fnk1bhg7-x8fnk1bhg7.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\sc5ju2iuvk-{0}-zk3snyengw-zk3snyengw.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\fejptiea5p-{0}-q3n68jwt9f-q3n68jwt9f.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\hjbfynuj7d-{0}-0c1d32ph4u-0c1d32ph4u.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ox30l11zo4-{0}-gnxria04pl-gnxria04pl.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ldl79o4m9p-{0}-zqltuijmmh-zqltuijmmh.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\pk65doamlb-{0}-m63nr5e1wm-m63nr5e1wm.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\btxeomdb6p-{0}-gaqwphjnqn-gaqwphjnqn.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\a217bd00b2-{0}-ru2cxr19xd-ru2cxr19xd.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\28cpybyd2c-{0}-sovr1pp57m-sovr1pp57m.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\wu32vjamv7-{0}-e6lxb1zo4r-e6lxb1zo4r.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\i05oqtyxb2-{0}-uyc8cyps1s-uyc8cyps1s.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\jf1y6zvgjy-{0}-cymb3pma5s-cymb3pma5s.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\6rrjpocm8f-{0}-r7fcis5f5w-r7fcis5f5w.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\vhnndjfwua-{0}-qgdusir5wo-qgdusir5wo.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\4eymo7w7ud-{0}-abqchyd4ey-abqchyd4ey.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\645ajllh93-{0}-duzqaujvcb-duzqaujvcb.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\3c81z3btrx-{0}-6kh6g3t9s6-6kh6g3t9s6.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\50ewdvq9es-{0}-5rzq459b4c-5rzq459b4c.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\811yrmwk3u-{0}-z27kpi724c-z27kpi724c.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\1lg2wnaluq-{0}-ssodwtr8me-ssodwtr8me.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\x0ybarvtio-{0}-wyzj39ldk5-wyzj39ldk5.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\c3gm1uf4gr-{0}-59b9ma3wnj-59b9ma3wnj.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ytmgvd2kqd-{0}-sul8q0jcid-sul8q0jcid.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\mnj4aip6z1-{0}-ra1e54wghy-ra1e54wghy.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\y0if6wg987-{0}-2bo1c34vsp-2bo1c34vsp.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\q3ucqkhmuv-{0}-yfbl1mg38h-yfbl1mg38h.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\k8blk2mnhj-{0}-9gq32dhbrm-9gq32dhbrm.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\1odp45mipf-{0}-dqnj1qjzns-dqnj1qjzns.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\cnceeyxde2-{0}-rh0m0hz4su-rh0m0hz4su.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\c2h0hi7zuj-{0}-evu8y4tl4x-evu8y4tl4x.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\21m31wi12h-{0}-b59oeg5zbp-b59oeg5zbp.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\0w8ns8tynb-{0}-026e6kk7rh-026e6kk7rh.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\q92kv6kghe-{0}-8odm1nyag1-8odm1nyag1.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\syn8orjjka-{0}-5tux705jrt-5tux705jrt.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\9el9kxohk6-{0}-8h82c988d2-8h82c988d2.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\swybzkufdd-{0}-fijaqoo955-fijaqoo955.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ydqjd3uusl-{0}-ys2tyb6s49-ys2tyb6s49.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\f8rceb8f57-{0}-lhbtj9850u-lhbtj9850u.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\nqrntf370b-{0}-u6djazel9b-u6djazel9b.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\o0vzl9y3au-{0}-wvublzrdv8-wvublzrdv8.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\5hbvk5c1a5-{0}-259makaqpv-259makaqpv.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\lesfr5ydtx-{0}-whkg23h785-whkg23h785.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\jc6fp4wpll-{0}-ld7xckwkli-ld7xckwkli.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\o12h69vrdq-{0}-p88p7jyaev-p88p7jyaev.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\xupu2h21a3-{0}-za30oyn8rw-za30oyn8rw.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\9t9u5hlrvj-{0}-5svw5dju7q-5svw5dju7q.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\zy61ox9fdt-{0}-ir474ug6zy-ir474ug6zy.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\5lyibhgaws-{0}-5cl6jzyzps-5cl6jzyzps.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\bj3nekwlb1-{0}-a2c1phmbzv-a2c1phmbzv.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\z4i694ifan-{0}-id5vwp8p47-id5vwp8p47.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\g8uis1lt8n-{0}-jc95ic8utn-jc95ic8utn.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\t9tbkgsoj2-{0}-hkjanwuenb-hkjanwuenb.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\8bcehene6s-{0}-ei34i8mvrx-ei34i8mvrx.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ttfyqt4lzk-{0}-eq99lnprhv-eq99lnprhv.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\8xvl5bhx88-{0}-br0zmhkmg1-br0zmhkmg1.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ldzyakrk4f-{0}-khtfrzbzl2-khtfrzbzl2.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\4xwhk8o0kp-{0}-u23ijdc25o-u23ijdc25o.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\3axu2cg48y-{0}-caoa9yso7c-caoa9yso7c.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\toji7tszn2-{0}-kdgqnhztwv-kdgqnhztwv.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\iy1uj6nhhn-{0}-cekyg9rg6z-cekyg9rg6z.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\nd0kd0cg65-{0}-px80y8xtbz-px80y8xtbz.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\jiwimtg4pz-{0}-hfg9xzm5z1-hfg9xzm5z1.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\up1umnkvsx-{0}-wtqgfvb3xj-wtqgfvb3xj.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\vqvbd8tr0n-{0}-5pbqeboks8-5pbqeboks8.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\r021tjknwb-{0}-89y8ovepyc-89y8ovepyc.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\txyh3fb3ty-{0}-0qdbtt6r1b-0qdbtt6r1b.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\ex3vwz6fbd-{0}-kph7g1fq2x-kph7g1fq2x.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\compressed\4pjjjukm2w-{0}-kph7g1fq2x-kph7g1fq2x.gz
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\staticwebassets.build.json.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\swae.build.ex.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.csproj.Up2Date
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\refint\aznews.dll
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.pdb
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\aznews.genruntimeconfig.cache
+c:\Users\josha\Downloads\aznews-main\aznews-main\obj\Debug\net9.0\ref\aznews.dll

@@ -1,0 +1,59 @@
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Quản lý CV của tôi";
+}
+
+<div class="row">
+    <!-- Danh sách CV -->
+    <div class="col-lg-8">
+        <div class="card shadow-sm">
+            <div class="card-header text-bg-secondary">
+                <h3 class="card-title"><i class="bi bi-files"></i> Kho CV đã tải lên</h3>
+            </div>
+            <div class="card-body p-0">
+                <table class="table table-hover align-middle mb-0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <i class="bi bi-file-pdf-fill text-danger fs-3 float-start me-3"></i>
+                                <strong class="text-primary">CV_IT_TiengViet_2026.pdf</strong><br />
+                                <small class="text-muted">Tải lên lúc: 10/10/2026</small>
+                            </td>
+                            <td><span class="badge text-bg-success">CV Mặc định (Đang dùng)</span></td>
+                            <td class="text-end">
+                                <button class="btn btn-outline-info btn-sm"><i class="bi bi-eye"></i> Xem</button>
+                                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i> Xóa</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <i class="bi bi-file-pdf-fill text-danger fs-3 float-start me-3"></i>
+                                <strong class="text-primary">CV_IT_TiengAnh_2026.pdf</strong><br />
+                                <small class="text-muted">Tải lên lúc: 01/09/2026</small>
+                            </td>
+                            <td><span class="badge text-bg-secondary">Dự phòng</span></td>
+                            <td class="text-end">
+                                <button class="btn btn-outline-info btn-sm"><i class="bi bi-eye"></i> Xem</button>
+                                <button class="btn btn-outline-danger btn-sm"><i class="bi bi-trash"></i> Xóa</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tải CV mới -->
+    <div class="col-lg-4">
+        <div class="card shadow-sm border-primary">
+            <div class="card-header text-bg-primary">
+                <h3 class="card-title"><i class="bi bi-cloud-arrow-up"></i> Tải CV mới</h3>
+            </div>
+            <div class="card-body text-center">
+                <p class="text-muted">Bạn có thể tải lên nhiều CV khác nhau để ứng tuyển cho các vị trí phù hợp.</p>
+                <input type="file" class="form-control mb-3" accept=".pdf,.doc,.docx" />
+                <button class="btn btn-primary w-100"><i class="bi bi-upload"></i> Tải lên hệ thống</button>
+            </div>
+        </div>
+    </div>
+</div>

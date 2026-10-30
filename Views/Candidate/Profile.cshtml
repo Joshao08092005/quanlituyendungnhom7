@@ -1,0 +1,64 @@
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Hồ sơ cá nhân";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <!-- Avatar -->
+        <div class="card shadow-sm mb-4">
+            <div class="card-body text-center">
+                <img src="~/adminlte/assets/img/user2-160x160.jpg" alt="Avatar" class="rounded-circle img-fluid" style="width: 150px;">
+                <h5 class="my-3 fw-bold">Nguyễn Văn Ứng Viên</h5>
+                <p class="text-muted mb-1">Sinh viên IT</p>
+                <p class="text-muted mb-4">Đại học Vinh</p>
+                <button class="btn btn-outline-primary btn-sm"><i class="bi bi-camera"></i> Đổi ảnh đại diện</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-9">
+        <!-- Form chỉnh sửa thông tin -->
+        <div class="card shadow-sm">
+            <div class="card-header text-bg-primary">
+                <h3 class="card-title">Chỉnh sửa thông tin liên hệ & Kỹ năng</h3>
+            </div>
+            <div class="card-body">
+                <form>
+                    <div class="row mb-3">
+                        <div class="col-sm-6">
+                            <label class="form-label">Họ và tên</label>
+                            <input type="text" class="form-control" value="Nguyễn Văn Ứng Viên">
+                        </div>
+                        <div class="col-sm-6">
+                            <label class="form-label">Số điện thoại</label>
+                            <input type="text" class="form-control" value="0988123123">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-6">
+                            <label class="form-label">Email</label>
+                            <input type="email" class="form-control" value="ungvien@gmail.com" readonly>
+                        </div>
+                        <div class="col-sm-6">
+                            <label class="form-label">Địa chỉ</label>
+                            <input type="text" class="form-control" value="TP. Vinh, Nghệ An">
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Kỹ năng chuyên môn (Tags)</label>
+                        <input type="text" class="form-control" value="C#, ASP.NET Core, SQL Server, HTML, CSS">
+                        <div class="form-text">Ngăn cách các kỹ năng bằng dấu phẩy.</div>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Mục tiêu nghề nghiệp</label>
+                        <textarea class="form-control" rows="4">Mong muốn trở thành Fullstack Developer trong 2 năm tới...</textarea>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-end">
+                <button type="button" class="btn btn-success"><i class="bi bi-save"></i> Lưu cập nhật</button>
+            </div>
+        </div>
+    </div>
+</div>

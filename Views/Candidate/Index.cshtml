@@ -1,0 +1,79 @@
+@model IEnumerable<aznews.Models.Job> 
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "Bảng điều khiển";
+}
+
+<!-- Khu vực trên: Tin tuyển dụng đang mở -->
+<div class="card mb-4 shadow-sm border-primary">
+    <div class="card-header text-bg-primary">
+        <h3 class="card-title fw-bold"><i class="bi bi-briefcase"></i> Việc làm mới phù hợp với bạn</h3>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            
+            @if (Model != null && Model.Any())
+            {
+                foreach (var job in Model)
+                {
+                    <div class="col-md-4">
+                        <div class="border p-3 rounded mb-3 shadow-sm h-100 position-relative">
+                            <h5 class="text-primary fw-bold text-truncate" title="@job.Title">@job.Title</h5>
+                            <p class="mb-1 text-muted"><i class="bi bi-building"></i> @(job.Company?.CompanyName ?? "Công ty ẩn danh")</p>
+                            
+                            <!-- Hiển thị định dạng tiền tệ -->
+                            <p class="mb-2 fw-bold text-success">
+                                <i class="bi bi-currency-dollar"></i> 
+                                @if (job.SalaryMin.HasValue && job.SalaryMax.HasValue)
+                                {
+                                    @($"{job.SalaryMin.Value:N0} - {job.SalaryMax.Value:N0} VNĐ")
+                                }
+                                else
+                                {
+                                    <span>Thỏa thuận</span>
+                                }
+                            </p>
+                            
+                            <!-- Nút Nộp CV -->
+                            <a asp-controller="Candidate" asp-action="ApplyJob" asp-route-jobId="@job.JobId" class="btn btn-sm btn-primary w-100 mt-2">
+                                <i class="bi bi-send"></i> Nộp CV ngay
+                            </a>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12 text-center py-4">
+                    <p class="text-muted mb-0">Hiện tại chưa có tin tuyển dụng nào được hiển thị.</p>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+
+<!-- Khu vực dưới: Lịch sử đã nộp -->
+<div class="card shadow-sm">
+    <div class="card-header border-0">
+        <h3 class="card-title fw-bold"><i class="bi bi-clock-history"></i> Lịch sử công ty đã ứng tuyển</h3>
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-striped align-middle mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th>Công ty</th>
+                    <th>Vị trí ứng tuyển</th>
+                    <th>Ngày nộp</th>
+                    <th>Trạng thái hồ sơ</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="4" class="text-center text-muted py-3">Bạn chưa nộp hồ sơ nào.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

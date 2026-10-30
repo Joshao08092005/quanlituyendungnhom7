@@ -1,0 +1,47 @@
+@model IList<tblMenu>
+@using aznews.Models
+
+<header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+        <a href="index.html" class="logo d-flex align-items-center me-auto">
+            <!-- Uncomment the line below if you also wish to use an image logo -->
+            <!-- <img src="~/assets/img/logo.webp" alt=""> -->
+            <h1 class="sitename">TopCV</h1>
+        </a>
+
+        <nav id="navmenu" class="navmenu">
+            <ul>
+                @foreach (var menu in Model.Where(m => m.Levels == 1).OrderBy(m => m.MenuOrder))
+                {
+                    var pID = menu.MenuID;
+                    var sMenu = Model.Where(s => s.ParentID == pID).OrderBy(s => s.MenuOrder).ToList();
+                    if (sMenu.Count == 0)
+                    {
+                        <li><a href="#">@menu.MenuName</a></li>
+                    }
+                    else
+                    {
+                        <li class="dropdown">
+                            <a href="#"><span>@menu.MenuName</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                            <ul>
+                                @foreach (var smn in sMenu)
+                                {
+                                    <li><a href="#">@smn.MenuName</a></li>
+                                }
+                            </ul>
+                        </li>
+                    }
+                }
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav>
+<a asp-controller="Account"
+   asp-action="Login"
+   class="btn-getstarted">
+    Đăng nhập
+</a>
+
+    </div>
+</header>
